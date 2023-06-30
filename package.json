@@ -1,0 +1,32 @@
+{
+  "name": "react-filepond-image-editor-resize-demo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "filepond": "4.19.2",
+    "filepond-plugin-image-edit": "1.6.1",
+    "filepond-plugin-image-exif-orientation": "1.0.9",
+    "filepond-plugin-image-preview": "4.6.4",
+    "filepond-plugin-image-resize": "2.0.7",
+    "filepond-plugin-image-transform": "3.7.4",
+    "react": "16.8.0",
+    "react-dom": "16.8.0",
+    "react-filepond": "7.0.1",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
